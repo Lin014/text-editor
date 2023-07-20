@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-24 00:00:31 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is opened by 20244@LAPTOP-3G6V943I
+
+[2022-11-24 00:00:31 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\objectdb.conf
+
+[2022-11-24 00:00:31 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-24 00:00:31 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is closed by 20244@LAPTOP-3G6V943I
+
+[2022-11-24 00:00:34 #5 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is opened by 20244@LAPTOP-3G6V943I
+
+[2022-11-24 00:00:34 #6 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\objectdb.conf
+
+[2022-11-24 00:00:34 #7 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is closed by 20244@LAPTOP-3G6V943I
+
+[2022-11-24 00:00:35 #8 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is opened by 20244@LAPTOP-3G6V943I
+
+[2022-11-24 00:00:35 #9 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\objectdb.conf
+
+[2022-11-24 00:00:35 #10 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is closed by 20244@LAPTOP-3G6V943I
+

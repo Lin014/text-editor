@@ -1,0 +1,14 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-11-16 23:12:03 #1 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is opened by 11952@LAPTOP-3G6V943I
+
+[2022-11-16 23:12:03 #2 store] 
+Configuration path: C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\objectdb.conf
+
+[2022-11-16 23:12:03 #3 type] 
+Type com.company.texteditor.dbManager.User is not enhanced.
+
+[2022-11-16 23:12:03 #4 store] 
+Database 'C:\Users\USER\Desktop\OO\TW1\code\version10\TextEditor\db\user.odb' is closed by 11952@LAPTOP-3G6V943I
+
